@@ -1,7 +1,7 @@
 ## 部分截图展示
-<img width="400" height="720" alt="屏幕截图 2026-03-22 214649" src="https://github.com/user-attachments/assets/cc2bf788-cc9e-45b0-8611-c175737af933" />
-<img width="400" height="720" alt="屏幕截图 2026-03-22 214649" src="https://github.com/user-attachments/assets/8ed4d39d-b502-480e-8c3a-270d81ce23d4" />
+<img width="460" height="720" alt="屏幕截图 2026-03-22 214649" src="https://github.com/user-attachments/assets/cc2bf788-cc9e-45b0-8611-c175737af933" />
 <img width="833" height="529" alt="屏幕截图 2026-03-22 214621" src="https://github.com/user-attachments/assets/08086746-d79f-4a83-acc2-62eda3af620a" />
+<img width="835" height="528" alt="屏幕截图 2026-03-22 214603" src="https://github.com/user-attachments/assets/5485df33-fbbb-4fa1-8e1b-d8dc2a232b6a" />
 
 
 >更多内容请您下载观看
